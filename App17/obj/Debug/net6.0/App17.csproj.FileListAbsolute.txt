@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\bin\Debug\net6.0\App17.exe
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\bin\Debug\net6.0\App17.deps.json
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\bin\Debug\net6.0\App17.runtimeconfig.json
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\bin\Debug\net6.0\App17.dll
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\bin\Debug\net6.0\App17.pdb
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\App17.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\App17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\App17.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\App17.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\App17.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\App17.dll
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\refint\App17.dll
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\App17.pdb
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\App17.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 1\App17\obj\Debug\net6.0\ref\App17.dll
